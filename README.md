@@ -20,7 +20,7 @@ Une API d’authentification simple (register / login) avec hash des mots de pas
 
 ```bash
 # 1. Cloner le repo
-git clone https://github.com/ton-utilisateur/mon-api-auth.git
+git clone https://github.com/MNolhan/API-Authentification.git
 cd mon-api-auth
 
 # 2. Installer les dépendances
