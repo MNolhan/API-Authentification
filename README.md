@@ -46,6 +46,8 @@ npm run dev
 npx prisma studio
 ```
 
+- Ou Installer Sqlite Viewer sur VSCode
+
 ---
 
 ## 💻 à Propos 
